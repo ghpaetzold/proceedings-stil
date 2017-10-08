@@ -25,7 +25,7 @@ python pdf-page-counter.py <paper_folder> <page_lengths_file>
 python bib-to-ppstil.py <bib_nopages> <page_lengths_file> <ppstil_file> <id_order_file>
 ```
 	
-3. Organize \ppstils in the proceedings "stil" TEX file and update <id_order_file> to the same order as they appear in the TEX file.
+3. Organize \ppstils in the "stil" TEX file and update <id_order_file> to the same order as they appear in the TEX file.
 
 4. Repeat steps 1, 2 and 3 for the proceedings "jdp" TEX file (don't forget to change "\ppstil" to "\ppjdp" when you do so).
 
@@ -53,11 +53,11 @@ python bib-to-aclxml.py <combined_bib_withpages> <combined_order_file> ACL-STIL:
 
 # Important things to check:
 
-- Check that no papers have the same ACL id by the end of the process
-- Check that all ACL papers have been correctly extracted from the proceedings main pdf
-- Check that the page ranges in the bib files have been correctly produced
-- Check that brazilian portuguese characters, such as "ã", "á" and "â" are being shown correctly in the final proceedings pdf file
-- Check that the order of authors in the \ppstils and \ppjdps is the same as feature in the paper
+- Check that no papers have the same ACL id by the end of the process.
+- Check that all ACL papers have been correctly extracted from the proceedings main PDF.
+- Check that the page ranges in the bibtex files have been correctly produced.
+- Check that brazilian portuguese characters, such as "ã", "á" and "â" are being shown correctly PDF file.
+- Check that the order of authors in the \ppstils and \ppjdps is the same as feature in the paper.
 
 # Commands used for STIL 2017:
 

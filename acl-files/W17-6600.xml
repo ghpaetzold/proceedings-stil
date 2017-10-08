@@ -1,0 +1,483 @@
+<?xml version="1.0" ?>
+<volume id="W17-6600">
+  <paper id="6600">
+    <title>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</title>
+    <editor>Gustavo Henrique Paetzold</editor>
+    <editor>Vládia Pinheiro</editor>
+    <month>October</month>
+    <year>2017</year>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6600</url>
+    <bibtype>book</bibtype>
+    <bibkey>ACL-STIL:2017</bibkey>
+  </paper>
+  <paper id="6601">
+    <title>Uma Ferramenta para Identificar Desvios de Linguagem na Língua Portuguesa</title>
+    <author>Jonathan Nau</author>
+    <author>Aluizio Haendchen Filho</author>
+    <author>Guilherme Passero</author>
+    <author>Vinicius Cavaco</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>12-16</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6601</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:01</bibkey>
+  </paper>
+  <paper id="6602">
+    <title>Estudo exploratório de categorias gramaticais com potencial de indicadores para a Análise de Sentimentos</title>
+    <author>Júlia Rodrigues</author>
+    <author>Adriana Pagano</author>
+    <author>Emerson Paraiso</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>17-21</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6602</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:02</bibkey>
+  </paper>
+  <paper id="6603">
+    <title>Geração de perguntas e respostas para a base de conhecimento de um chatterbot educacional</title>
+    <author>Joyce Martins</author>
+    <author>Camila Martins</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>22-26</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6603</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:03</bibkey>
+  </paper>
+  <paper id="6604">
+    <title>A study on irony within the context of 7x1-PT corpus</title>
+    <author>Silvia Moraes</author>
+    <author>Rackel Machado</author>
+    <author>Matheus Redecker</author>
+    <author>Rafael Cadaval</author>
+    <author>Felipe Meneguzzi</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>27-31</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6604</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:04</bibkey>
+  </paper>
+  <paper id="6605">
+    <title>Improving Opinion Summarization by Assessing Sentence Importance in On-line Reviews</title>
+    <author>Rafael Anchiêta</author>
+    <author>Rogerio Figueredo Sousa</author>
+    <author>Raimundo Moura</author>
+    <author>Thiago Pardo</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>32-36</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6605</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:05</bibkey>
+  </paper>
+  <paper id="6606">
+    <title>Wheel of Life: an initial investigation. Topic-Related Polarity Visualization in Personal Stories</title>
+    <author>Henrique Santos</author>
+    <author>Renata Vieira</author>
+    <author>Greice Pinho</author>
+    <author>Jackson Pinheiro</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>37-41</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6606</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:06</bibkey>
+  </paper>
+  <paper id="6607">
+    <title>Investigating Opinion Mining through Language Varieties: a Case Study of Brazilian and European Portuguese tweets</title>
+    <author>Douglas Vitório</author>
+    <author>Ellen Polliana Ramos Souza</author>
+    <author>Ingryd Pereira</author>
+    <author>Adriano Oliveira</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>43-52</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6607</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:07</bibkey>
+  </paper>
+  <paper id="6608">
+    <title>A Rule-based Semantic Annotator: Adding top-level ontology Tags</title>
+    <author>Guidson Coelho Andrade</author>
+    <author>Alcione Oliveira</author>
+    <author>Alexandra Moreira</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>53-62</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6608</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:08</bibkey>
+  </paper>
+  <paper id="6609">
+    <title>Processo de construção de um corpus anotado com Entidades Geológicas visando REN</title>
+    <author>Daniela Amaral</author>
+    <author>Sandra Collovini</author>
+    <author>Anny Figueira</author>
+    <author>Renata Vieira</author>
+    <author>Renata Vieira</author>
+    <author>Marco Gonzalez</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>63-72</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6609</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:09</bibkey>
+  </paper>
+  <paper id="6610">
+    <title>Formação de gentílicos a partir de topônimos: descrição linguística e aprendizado automático</title>
+    <author>Roger Alfredo Marci Rodrigues Antunes</author>
+    <author>Thiago Pardo</author>
+    <author>Gladis Maria Barcelos Almeida</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>73-82</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6610</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:10</bibkey>
+  </paper>
+  <paper id="6611">
+    <title>Visualização de glossário em sistemas de recuperação de informação</title>
+    <author>Glauber Vaz</author>
+    <author>Leandro Mendonça Oliveira</author>
+    <author>Ivo Pierozzi Jr.</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>83-92</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6611</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:11</bibkey>
+  </paper>
+  <paper id="6612">
+    <title>Avaliando a similaridade semântica entre frases curtas através de uma abordagem híbrida</title>
+    <author>Allan Silva</author>
+    <author>Sandro Rigo</author>
+    <author>Isa Mara Alves</author>
+    <author>Jorge Barbosa</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>93-102</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6612</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:12</bibkey>
+  </paper>
+  <paper id="6613">
+    <title>A Comparative Study for Sentiment Analysis on Election Brazilian News</title>
+    <author>Caio Magno Aguiar Carvalho</author>
+    <author>Hitoshi Nagano</author>
+    <author>Allan Kardec Barros</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>103-111</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6613</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:13</bibkey>
+  </paper>
+  <paper id="6614">
+    <title>Influência de Técnicas Não-supervisionadas de Redução de Dimensionalidade para Organização Flexível de Documentos</title>
+    <author>Beatriz Lima</author>
+    <author>Fernanda Eustáquio</author>
+    <author>Tatiane Nogueira</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>112-121</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6614</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:14</bibkey>
+  </paper>
+  <paper id="6615">
+    <title>Portuguese Word Embeddings: Evaluating on Word Analogies and Natural Language Tasks</title>
+    <author>Nathan Hartmann</author>
+    <author>Erick Fonseca</author>
+    <author>Christopher Shulby</author>
+    <author>Marcos Treviso</author>
+    <author>Jéssica Silva</author>
+    <author>Sandra Aluísio</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>122-131</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6615</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:15</bibkey>
+  </paper>
+  <paper id="6616">
+    <title>Utilizando Features Linguísticas Genéricas para Classificação de Triplas Relacionais em Português</title>
+    <author>George Barbosa</author>
+    <author>Daniela Barreiro Claro</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>132-141</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6616</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:16</bibkey>
+  </paper>
+  <paper id="6617">
+    <title>Normalizador de Texto para Lingua Portuguesa baseado em Modelo de Linguagem</title>
+    <author>Patrick Bard</author>
+    <author>Renan Lopes Luis</author>
+    <author>Silvia Moraes</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>142-150</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6617</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:17</bibkey>
+  </paper>
+  <paper id="6618">
+    <title>Evaluating Word Embeddings for Sentence Boundary Detection in Speech Transcripts</title>
+    <author>Marcos Treviso</author>
+    <author>Christopher Shulby</author>
+    <author>Sandra Aluísio</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>151-160</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6618</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:18</bibkey>
+  </paper>
+  <paper id="6619">
+    <title>Análise de Medidas de Similaridade Semântica na Tarefa de Reconhecimento de Implicação Textual</title>
+    <author>David Feitosa</author>
+    <author>Vladia Pinheiro</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>161-170</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6619</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:19</bibkey>
+  </paper>
+  <paper id="6620">
+    <title>FrameFOR – Uma Base de Conhecimento de Frames Semânticos para Perícias de Informática</title>
+    <author>Ravi Barreira</author>
+    <author>Vladia Pinheiro</author>
+    <author>Vasco Furtado</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>171-180</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6620</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:20</bibkey>
+  </paper>
+  <paper id="6621">
+    <title>A Implementação de uma Minigramática do Português Brasileiro sob a Perspectiva da LFG</title>
+    <author>Daniel Soares</author>
+    <author>Francisco Nogueira</author>
+    <author>Leonel Figueiredo Alencar</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>185-192</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6621</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:21</bibkey>
+  </paper>
+  <paper id="6622">
+    <title>Constituição de Um Dicionário Eletrônico Trilíngue Fundado em Frames a partir da Extração Automática de Candidatos a Termos do Domínio do Turismo</title>
+    <author>Simone Rodrigues Peron-Corrêa</author>
+    <author>Tiago Timponi Torrent</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>193-200</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6622</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:22</bibkey>
+  </paper>
+  <paper id="6623">
+    <title>A Modelagem Computacional do Domínio dos Esportes na FrameNet Brasil</title>
+    <author>Alexandre Diniz Costa</author>
+    <author>Tiago Timponi Torrent</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>201-208</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6623</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:23</bibkey>
+  </paper>
+  <paper id="6624">
+    <title>Descrição e modelagem de construções interrogativas QU- em Português Brasileiro para o desenvolvimento de um chatbot</title>
+    <author>Natália Duarte Marção</author>
+    <author>Tiago Timponi Torrent</author>
+    <author>Ely Edison Silva Matos</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>209-216</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6624</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:24</bibkey>
+  </paper>
+  <paper id="6625">
+    <title>Construções de Estrutura Argumental no âmbito do Constructicon da FrameNet Brasil: proposta de uma modelagem linguístico-computacional</title>
+    <author>Vânia Gomes Almeida</author>
+    <author>Tiago Timponi Torrent</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>217-223</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6625</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:25</bibkey>
+  </paper>
+  <paper id="6626">
+    <title>Investigação Preliminar Sobre a Prosódia Semântica de Verbos de Elocução: o Caso do Verbo &quot;Confessar&quot;</title>
+    <author>Barbara C. Ramos</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>224-231</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6626</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:26</bibkey>
+  </paper>
+  <paper id="6627">
+    <title>Uma Proposta Metodológica para a Categorização Automatizada de Atrações Turísticas a partir de Comentários de Usuários em Plataformas Online</title>
+    <author>Vanessa Maria Ramos Lopes Paiva</author>
+    <author>Tiago Timponi Torrent</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>232-239</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6627</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:27</bibkey>
+  </paper>
+  <paper id="6628">
+    <title>Sofrer uma ofensa, Receber uma advertência: Verbos-suporte Conversos de 'Fazer' no Português do Brasil</title>
+    <author>Claúdia D. Barros</author>
+    <author>Nathalia P. Calcia</author>
+    <author>Oto A. Vale</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>240-246</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6628</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:28</bibkey>
+  </paper>
+  <paper id="6629">
+    <title>Os Provérbios em manuais de ensino de Português Língua Não Materna</title>
+    <author>Sónia Reis</author>
+    <author>Jorge Baptista</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>247-255</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6629</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:29</bibkey>
+  </paper>
+  <paper id="6630">
+    <title>Prosody, syntax, and pragmatics: insubordination in spoken Brazilian Portuguese</title>
+    <author>Giulia Bossaglia</author>
+    <author>Heliana Mello</author>
+    <author>Tommaso Raso</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>256-265</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6630</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:30</bibkey>
+  </paper>
+  <paper id="6631">
+    <title>As bases de dados verbais ADESSE e ViPEr: uma análise constrastiva das construções locativas em espanhol e em português</title>
+    <author>Roana Rodrigues</author>
+    <author>Oto Vale</author>
+    <author>Laura Alonso Alemany</author>
+    <booktitle>Proceedings of the 11th Brazilian Symposium in Information and Human Language Technology - V Jornada de Descrição do Português</booktitle>
+    <month>October</month>
+    <year>2017</year>
+    <pages>266-273</pages>
+    <address>Uberlândia, Brazil</address>
+    <publisher>Sociedade Brasileira de Computação</publisher>
+    <url>http://www.aclweb.org/anthology/W17-6631</url>
+    <bibtype>InProceedings</bibtype>
+    <bibkey>ACL-STIL:2017:31</bibkey>
+  </paper>
+</volume>

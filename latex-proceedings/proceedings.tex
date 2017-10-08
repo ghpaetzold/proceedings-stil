@@ -1,0 +1,224 @@
+\documentclass[english, titlepage, a4paper]{lni}
+
+\usepackage[utf8]{inputenc}
+\usepackage{latexsym}
+\usepackage{graphicx}
+\usepackage{url}
+\usepackage[absolute]{textpos}
+\usepackage{forloop}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Important commands:
+
+\newcommand{\headruleon}{\renewcommand{\headrulewidth}{0.6pt}}
+\newcommand{\headruleoff}{\renewcommand{\headrulewidth}{0pt}}
+
+\newcommand{\emptypage}{
+  \headruleoff
+  \markright{}
+  \null
+  \newpage
+  \headruleon
+}
+
+\newcommand{\ppOnepage}[3]{
+  \begin{textblock*}{0mm}(20mm,26mm)
+    \includegraphics[clip=true, height=1.2\textheight, page=#2]{../conference-papers/#3/#1.pdf}
+  \end{textblock*}
+  \null
+  \newpage
+}
+
+\newcounter{seite}
+\newcommand{\pp}[5]{
+  \addcontentsline{toc}{section}{#3 \\ \textnormal{\textit{#4}}}
+
+  \markright{Proceedings of Symposium in Information and Human
+    Language Technology. Uberl\^andia, MG, Brazil, October 2--5,
+    2017. \copyright 2017 Sociedade Brasileira de Computação.}
+
+  \ppOnepage{#1}{1}{#5}
+
+  \markright{#3}
+  \forLoop{2}{#2}{seite}{
+    \ppOnepage{#1}{\value{seite}}{#5}
+  }
+}
+
+\newcommand{\ppstil}[4]{\pp{#1}{#2}{#3}{#4}{stil}}
+
+\newcommand{\ppjdp}[4]{\pp{#1}{#2}{#3}{#4}{jdp}}
+
+\fancyhf{}
+\headruleoff
+
+\begin{document} 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%First page:
+
+{\large\sffamily
+  \begin{tabular}{@{}l@{\ \ \ \ }l}
+		Vl\'adia Pinheiro\\
+    Gustavo Henrique Paetzold \\
+  \end{tabular}
+}
+
+\vspace{5.5cm}
+
+{\LARGE\bf\sffamily
+STIL 2017\\[0.7em]
+XI Brazilian Symposium in Information and \\ Human Language Technology and Collocated Events
+}
+
+\vspace{0.8cm}
+
+{\LARGE\bf\sffamily
+Proceedings of the Conference
+}
+
+\vspace{0.5cm}
+
+{\large\bf\sffamily
+October 2 to 5, 2017.\\
+Uberl\^andia, Minas Gerais.
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Second page:
+
+\newpage
+\null \vfill{
+  \copyright 2017 for the individual papers by the papers'
+  authors. Copying permitted for private and academic
+  purposes. Re-publication of material from this volume requires
+  permission by the copyright owners.
+
+  \emph{Editors' addresses:}\\[0.5em]
+  Universidade de Fortaleza \\
+  Av. Washington Soares, 1321, Edson Queiroz  \\
+  Fortaleza, CE - Brasil, 60811-905\\
+  \url{vladiacelia@unifor.br}\\
+
+  University of Sheffield \\
+  Western Bank \\
+  Sheffield, United Kingdom, S10 2TN\\
+  \url{g.h.paetzold@sheffield.ac.uk}
+}
+
+\newpage
+\cfoot{\thepage}
+\fancyhead[L]{\rightmark}
+\headruleon
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Event's introduction:
+
+\input{apres}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Acknowledgments:
+
+\input{ack}
+
+\newpage
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Chairs:
+
+\section*{Program Chairs}
+Vl\'{a}dia Pinheiro (Universidade de Fortaleza - UNIFOR, Brazil)\\
+Gustavo H. Paetzold (Universidade de Sheffield, UK)
+
+\section*{Local Chair}
+Paulo Henrique Ribeiro Gabriel (Federal University of Uberl\^{a}ndia - UFU, Brazil) \\
+
+\section*{Program Committee}
+Alberto Simões (University of Minho – UMinho, Portugal)\\
+Alexandre Rademaker (Fundaç\~{a}o Get\'{u}lio Vargas – FGV \& IBM Research, Brazil)\\
+Aline Villavicencio (Federal University of Rio Grande do Sul – UFRGS, Brazil)\\
+Andre Adami (University of Caxias do Sul – UCS, Brazil)\\
+Antonio Branco (University of Lisbon – ULisboa, Portugal)\\
+Arnaldo Candido Junior (Federal Technological University of Paran\'{a} – UTFPR, Brazil)\\
+Carlos A. Prolo (Federal University of Rio Grande do Norte – UFRN, Brazil)\\
+Carlos Ramisch (Aix Marseille Universit\'{e} – AMU, France)\\
+Cassia Trojahn dos Santos (IRIT \& University of Toulosse 2 – UTM2, France)\\
+Christopher Shulby (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+Clarissa Xavier (Pontifical Catholic University of Rio Grande do Sul – PUCRS, Brazil)\\
+Cl\'{a}udia de Freitas (Pontifical Catholic University of Rio de Janeiro – PUC-Rio, Brazil)\\
+Daniel Lucr\'{e}dio (Federal University of S\~{a}o Carlos – UFSCar, Brazil)\\
+Daniel Muller (Federal University of Rio Grande do Sul – UFRGS, Brazil)\\
+Diana Santos (Linguateca \& University of Oslo – UiO, Norway)\\
+Eraldo Fernandes (Federal University of Mato Grosso do Sul – UFMS, Brazil)\\
+Erick Maziero (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+Gustavo H. Paetzold (University of Sheffield, UK)\\
+Helena Caseli (Federal University of S\~{a}o Carlos – UFSCar, Brazil)\\
+Heliana Mello (Federal University of Minas Gerais – UFMG, Brazil)\\
+Hugo Gonçalo Oliveira (University of Coimbra – UC, Portugal)\\
+Ivandr\'{e} Paraboni (University of S\~{a}o Paulo – USP/EACH, Brazil)\\
+Jorge Baptista (University of Algarve – UAlg, Portugal)\\
+Leandro Mendonça de Oliveira (Brazilian Agricultural Research Corporation – EMBRAPA, Brazil)\\
+Leonel Alencar (Federal University of Cear\'{a} - UFC, Brazil)\\
+Livy Real (Universidade Federal do Paran\'{a}, Brazil)\\
+Lucelene Lopes (Pontifical Catholic University of Rio Grande do Sul – PUCRS, Brazil)\\
+Luciano Barbosa (IBM Research, Brazil)\\
+Marcelo Finger (University of S\~{a}o Paulo – USP/IME, Brazil)\\
+Maria das Graças Nunes (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+M\'{a}rcio Dias (Federal University of Goi\'{a}s – UFG, Brazil)\\
+M\'{a}rio Silva (INESC-ID, Instituto Superior T\'{e}cnico, Universidade de Lisboa, Portugal)\\
+Nelson Neto (Federal University of Par\'{a} - UFPA, Brazil)\\
+Norton Roman (University of S\~{a}o Paulo – USP/EACH, Brazil)\\
+Osvaldo de Oliveria Jr. (University of S\~{a}o Paulo, Brazil)\\
+Paloma Moreda (University of Alicante – UA, Spain)\\
+Pedro Balage Filho (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+Renata Vieira (Pontifical Catholic University of Rio Grande do Sul – PUCRS, Brazil)\\
+Roseli Ap. Francalin Romero (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+Ruy Milidi\'{u} (Pontifical Catholic University of Rio de Janeiro – PUC-Rio, Brazil)\\
+Sandra Alu\'{i}sio (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+S\'{e}rgio de Freitas (University of Bras\'{i}lia – UnB, Brazil)\\
+Stella Tagnin (University of S\~{a}o Paulo – USP/FFLCH, Brazil)\\
+Thiago Pardo (University of S\~{a}o Paulo – USP/ICMC, Brazil)\\
+Val\'{e}ria Feltrim (State University of Maring\'{a} – UEM, Brazil)\\
+Valeria de Paiva (Nuance Communications, USA)\\
+Vera L\'{u}cia Strube de Lima (Pontifical Catholic University of Rio Grande do Sul – PUCRS, Brazil)\\
+Vl\'{a}dia Pinheiro (University of Fortaleza – UNIFOR, Brazil)
+
+\section*{Natural Language Processing Steering Committee}
+Vl\'{a}dia Pinheiro (coordinator) (Universidade de Fortaleza - UNIFOR, Brazil) \\
+Maria Cl\'{a}udia de Freitas (Pontif\'{i}cia Universidade Católica do Rio de Janeiro - PUC-Rio, Brazil) \\
+Val\'{e}ria Delisandra Feltrim (Universidade Estadual de Maring\'{a} - UEM, Brazil) \\
+Carlos Augusto Prolo (Universidade Federal do Rio Grande do Norte - UFRN, Brazil) \\
+Alexandre Rademaker (Fundaç\~{a}o Get\'{u}lio Vargas - FGV \& IBM Research, Brazil) \\
+
+\newpage
+\markright{}
+\tableofcontents
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%STIL conference papers:
+
+\part{Conference Papers}
+
+\input{stil}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%Jornada do Português:
+
+\part{V Jornada de Descri\c{c}\~ao do Portugu\^es}
+
+\input{jdp}
+
+\end{document}

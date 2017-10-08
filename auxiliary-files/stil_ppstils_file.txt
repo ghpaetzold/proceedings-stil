@@ -1,0 +1,22 @@
+\ppstil{171680}{5}{Uma Ferramenta para Identificar Desvios de Linguagem na L\'\ingua Portuguesa}{Jonathan Nau and Aluizio Haendchen Filho and Guilherme Passero and Vinicius Cavaco}
+\ppstil{171726}{5}{Estudo explorat\'orio de categorias gramaticais com potencial de indicadores na An\'alise de Sentimentos}{J\'ulia Rodrigues and Adriana Pagano and Emerson Paraiso}
+\ppstil{171239}{5}{Gera\c{c}\~ao de perguntas e respostas para a base de conhecimento de um chatterbot educacional}{Joyce Martins and Camila Martins}
+\ppstil{171127}{5}{A study on irony within the context of 7x1-PT corpus}{Silvia Moraes and Rackel Machado and Matheus Redecker and Rafael Cadaval and Felipe Meneguzzi}
+\ppstil{170428}{5}{Improving Opinion Summarization by Assessing Sentence Importance in On-line Reviews}{Rafael Anchi\^eta and Rogerio Figueredo Sousa and Thiago Pardo and Raimundo Moura}
+\ppstil{170831}{5}{Wheel of Life: a initial investigation. Topic-Related Polarity Visualization in Personal Stories}{Henrique Santos and Renata Vieira and Greice Pinho and Jackson Pinheiro}
+
+
+\ppstil{170905}{10}{Investigating Opinion Mining through Language Varieties: a Case Study of Brazilian and European Portuguese tweets}{Douglas Vit\'orio and Ellen Polliana Ramos Souza and Ingryd Pereira and Adriano Oliveira}
+\ppstil{171103}{10}{A Rule-based Semantic Annotator: Adding top-level ontology Tags}{Guidson Coelho Andrade and Alcione Oliveira and Alexandra Moreira}
+\ppstil{171166}{10}{Processo de constru\c{c}\~ao de um corpus anotado com Entidades Geol\'ogicas visando REN}{Daniela Amaral and Sandra Collovini and Anny Figueira and Renata Vieira and Renata Vieira and Marco Gonzalez}
+\ppstil{171172}{10}{Forma\c{c}\~ao de gent\'\ilicos a partir de top\^onimos: descri\c{c}\~ao lingu\'\istica e aprendizado autom\'atico}{Roger Alfredo Marci Rodrigues Antunes and Thiago Pardo and Gladis Maria Barcelos Almeida}
+\ppstil{171184}{10}{Visualiza\c{c}\~ao de gloss\'ario em sistemas de recupera\c{c}\~ao de informa\c{c}\~ao}{Glauber Vaz and Ivo Pierozzi Jr. and Leandro Mendon\c{c}a Oliveira}
+\ppstil{171198}{10}{Avaliando a similaridade sem\^antica entre frases curtas atrav\'es de uma abordagem h\'\ibrida}{Allan Silva and Sandro Rigo and Isa Mara Alves and Jorge Barbosa}
+\ppstil{171203}{9}{A Comparative Study for Sentiment Analysis on Election Brazilian News}{Caio Magno Aguiar Carvalho and Hitoshi Nagano and Allan Kardec Barros}
+\ppstil{171228}{10}{Influ\^encia de T\'ecnicas N\~ao-supervisionadas de Redu\c{c}\~ao de Dimensionalidade para Organiza\c{c}\~ao Flex\'\ivel de Documentos}{Beatriz Lima and Fernanda Eust\'aquio and Tatiane Nogueira}
+\ppstil{171292}{10}{Portuguese Word Embeddings: Evaluating on Word Analogies and Natural Language Tasks}{Nathan Hartmann and Erick Fonseca and Christopher Shulby and Marcos Treviso and J\'essica Silva and Sandra Alu\'\isio}
+\ppstil{171304}{10}{Utilizando Features Lingu\'\isticas Gen\'ericas para Classifica\c{c}\~ao de Triplas Relacionais em Portugu\^es}{George Barbosa and Daniela Barreiro Claro}
+\ppstil{171317}{9}{Normalizador de Texto para Lingua Portuguesa baseado em Modelo de Linguagem}{Silvia Moraes and Patrick Bard and Renan Lopes Luis}
+\ppstil{171656}{10}{Evaluating Word Embeddings for Sentence Boundary Detection in Speech Transcripts}{Marcos Treviso and Sandra Alu\'\isio and Christopher Shulby}
+\ppstil{171728}{10}{An\'alise de Medidas de Similaridade Sem\^antica na Tarefa de Reconhecimento de Implica\c{c}\~ao Textual}{David Feitosa and Vladia Pinheiro}
+\ppstil{171743}{10}{FrameFOR a Knowledge Base of Semantic Frames for Digital Forensics}{Ravi Barreira and Vladia Pinheiro and Vasco Furtado}

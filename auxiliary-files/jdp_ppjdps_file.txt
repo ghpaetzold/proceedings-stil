@@ -1,0 +1,11 @@
+\ppstil{180001}{8}{A Implementa\c{c}\~ao de uma Minigram\'atica do Portugu\^es Brasileiro sob a Perspectiva da LFG}{Daniel Soares and Francisco Nogueira and Leonel Figueiredo Alencar}
+\ppstil{180002}{8}{Constitui\c{c}\~ao de Um Dicion\'ario Eletr\^onico Tril\'\ingue Fundado em Frames a partir da Extra\c{c}\~ao Autom\'atica de Candidatos a Termos do Dom\'\inio do Turismo}{Simone Rodrigues Peron-Corr\^ea and Tiago Timponi Torrent}
+\ppstil{180003}{8}{A Modelagem Computacional do Dom\'\inio dos Esportes na FrameNet Brasil}{Alexandre Diniz Costa and Tiago Timponi Torrent}
+\ppstil{180004}{8}{Descri\c{c}\~ao e modelagem de constru\c{c}\~oes interrogativas QU- em Portugu\^es Brasileiro para o desenvolvimento de um chatbot}{Nat\'alia Duarte Mar\c{c}\~ao and Tiago Timponi Torrent and Ely Edison Silva Matos}
+\ppstil{180005}{7}{Constru\c{c}\~oes de Estrutura Argumental no \^ambito do Constructicon da FrameNet Brasil: proposta de uma modelagem lingu\'\istico-computacional}{V\^ania Gomes Almeida and Tiago Timponi Torrent}
+\ppstil{180006}{8}{Investiga\c{c}\~ao Preliminar Sobre a Pros\'odia Sem\^antica de Verbos de Elocu\c{c}\~ao: o Caso do Verbo "Confessar"}{Barbara C. Ramos}
+\ppstil{180007}{8}{Uma Proposta Metodol\'ogica para a Categoriza\c{c}\~ao Automatizada de Atra\c{c}\~oes Tur\'\isticas a partir de Coment\'arios de Usu\'arios em Plataformas Online}{Vanessa Maria Ramos Lopes Paiva and Tiago Timponi Torrent}
+\ppstil{180008}{7}{Sofrer uma ofensa, Receber uma advert\^encia: Verbos-suporte Conversos de 'Fazer' no Portugu\^es do Brasil}{Cla\'udia D. Barros and Nathalia P. Calcia and Oto A. Vale}
+\ppstil{180009}{9}{Os Prov\'erbios em manuais de ensino de Portugu\^es L\'\ingua N\~ao Materna}{S\'onia Reis and Jorge Baptista}
+\ppstil{180010}{10}{Prosody, syntax, and pragmatics: insubordination in spoken Brazilian Portuguese}{Giulia Bossaglia and Heliana Mello and Tommaso Raso}
+\ppstil{180011}{8}{As bases de dados verbais ADESSE e ViPEr: uma an\'alise constrastiva das constru\c{c}\~oes locativas em espanhol e em portugu\^es}{Roana Rodrigues and Oto Vale and Laura Alonso Alemany}
